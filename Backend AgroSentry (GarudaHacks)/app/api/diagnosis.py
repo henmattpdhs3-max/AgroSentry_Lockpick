@@ -27,29 +27,26 @@ async def predict_diagnosis(file: UploadFile = File(...)):
 
         try:
             data_diagnosis = {
-                "penyakit": hasil_ai["penyakit"],
-                "kepastian": hasil_ai["kepastian"],
-                # "user_id": "optional_user_id_here", 
-                # "image_url": "we'll handle storage in the next step"
+               "user_id": "235",  # Replace with actual user ID if available
+                "disease_detected": hasil_ai["diagnosis"],
+                "confidence_score": hasil_ai["kepastian"],
+                "crop_type": hasil_ai["crop_type"],
+                "image_url": "optional_image_url_here",  # Replace with actual image URL if available
             }
-
-            state.supabase.table()
             
-            # This one line sends the data to the 'diagnoses' table!
             state.supabase.table("diagnoses").insert(data_diagnosis).execute()
             logger.info("Diagnosis saved to Supabase.")
-            
         except Exception as db_error:
             logger.error(f"Database save failed: {db_error}")
 
         return {
             "status": "success",
-            "diagnoses": hasil_ai["diagnoses"],
+            "diagnoses": hasil_ai["diagnosis"],
             "kepastian": hasil_ai["kepastian"]
         }
     
     except HTTPException:
         raise
     except Exception as e:
-        logger.error(f"Error in diagnosis: {e}")
+        logger.error(f"Error in diagnosis: {e}", exc_info=True)
         raise HTTPException(status_code=500, detail=str(e))

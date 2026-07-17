@@ -40,10 +40,10 @@ class InferONNX():
 
     def load_labels(self) -> Dict[str, str]:
         try:
-            with open(self.labels, "r") as f:
+            with open(self.labels_path, "r") as f:
                 labels_dict = json.load(f)
-            logger.info(f"Label berhasil diunggah dari {self.labels}")
-            return labels_dict
+                logger.info(f"Label berhasil diunggah dari {self.labels_path}")
+                return labels_dict
         except Exception as e:
             logger.error(f"Gagal mengunggah label: {e}")
             return {}

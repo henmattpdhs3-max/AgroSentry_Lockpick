@@ -1,6 +1,6 @@
 from langchain_community.vectorstores import Chroma
 from langchain_community.embeddings import SentenceTransformerEmbeddings
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_core.documents import Document
 from typing import List, Optional
 import os
@@ -19,7 +19,6 @@ class RAGService:
         self.persist_directory = persist_directory
         
         # Initialize the embedding model. This converts text into numerical vectors.
-        # 'all-MiniLM-L6-v2' is a good, lightweight choice for local embeddings.
         self.embeddings = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
         self.vectorstore: Optional[Chroma] = None
 

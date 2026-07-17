@@ -1,3 +1,4 @@
+import json
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.api.diagnosis import router as routingdiagnosis
@@ -5,32 +6,38 @@ from app.api.rekomendasi import router as routingrekomendasi
 from app.api.populasi import router as routingpopulasi
 from app.api.intelligence import router as routingintelligence
 from app.api.kesehatan import router as routingkesehatan
-from pydantic import BaseModel, Field
 
 from contextlib import asynccontextmanager
-from supabase import create_client, Client
 from app.core.state import state
 from app.core.config import settings
 from app.services.inferonxx import InferONNX
 from app.services.supabase import get_supabase_client
+from app.services.rag import RAGService
+from app.services.llm import LLMService
+
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    from app.core.state import state 
     state.supabase = get_supabase_client()
     state.infer_onxx = InferONNX(model_path=settings.onnx_model_path, labels=settings.labels_path)
-    # state.rag_index = ...      # once services/rag.py exists
-    # state.llm_service = ...   # once services/llm.py exists
+
+    state.rag_service = RAGService()
+    with open("data/ministry_documents/flattened.json") as f:
+        docs = json.load(f)
+    state.rag_service.initialize_vectorstore(docs)
+
+    state.llm_service = LLMService(model_name="gpt-5-mini-2025-08-07", is_gemini=False)
 
     yield
 
-    # Cleanup code can go here if needed (e.g., closing connections) or Shutdown? 
+    # Shutdown — nothing needed yet
+
 
 master = FastAPI(lifespan=lifespan)
 
 origins = [
     "http://localhost:3000",
-    "https://your-nextjs-app.com",    #placeholder tergantmung nanti yang frontend linknya gimana
+    "https://your-nextjs-app.com",    # placeholder tergantung nanti yang frontend linknya gimana
 ]
 
 master.add_middleware(

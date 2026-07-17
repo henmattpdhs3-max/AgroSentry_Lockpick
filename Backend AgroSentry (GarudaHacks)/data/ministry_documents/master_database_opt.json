@@ -1,0 +1,1514 @@
+{
+  "crops": [
+    {
+      "name": "Banana",
+      "scientific_name": "Musa paradisiaca",
+      "common_names": [
+        "banana",
+        "banane",
+        "Банан"
+      ],
+      "description": "Banana, Musa paradisiaca, is a type of fruit that grows on a large herbaceous plant that is native to Southeast Asia. It is one of the world's most popular and widely grown fruit, with many varieties being cultivated for both commercial and home use. Bananas are long, curved fruits with smooth, yellow, and sometimes slightly green skin. The average length of a banana is about 7 to 9 inches, and it is about 2 to 3 inches in diameter. The skin of the banana is usually yellow when it is ripe, but it can also be green, red, or purple depending on the variety. The inside of a banana is composed of several fleshy, cream-colored segments, which are surrounded by thin, white membranes. The flesh of the banana is soft, slightly sweet, and has a slightly sticky texture.",
+      "uses_and_benefits": "Bananas are a good source of vitamins and minerals, including vitamin C, vitamin B6, and potassium, and are often used as a healthy snack or ingredient in smoothies and other foods. The fruit is the most widely used part of the plant and can be eaten fresh or cooked or processed into starch, chips, puree, beer, vinegar or dehydrated to produce dried fruit. The fruit may also be processed into flour which is used in baking, soups or beverages. The flowers of the plant may be used as a vegetable. Fresh leaves have a high protein content and can be fed to cattle. Other uses for leaves include polishing floors, lining pots or wrapping food.",
+      "varieties": [
+        {
+          "name": "Cavendish",
+          "description": "The most common variety of banana found in grocery stores and is known for its sweet flavor and yellow skin."
+        },
+        {
+          "name": "Plantain",
+          "description": "Larger and less sweet than Cavendish bananas. Typically used for cooking and are a staple food in many countries."
+        },
+        {
+          "name": "Red Banana",
+          "description": "Smaller and sweeter than the Cavendish and has a red or pink skin when ripe."
+        },
+        {
+          "name": "Lady Finger Banana",
+          "description": "Smaller and sweeter than the Cavendish and is a popular snack."
+        },
+        {
+          "name": "Blue Java Banana",
+          "description": "Also known as the 'Ice Cream Banana' due to its creamy texture and sweet flavor. It has a blue-green skin when ripe."
+        },
+        {
+          "name": "Musa Basjoo",
+          "description": "Hardy banana variety native to Southeast Asia that can grow in cold climates. Has green skin and a sweet, slightly tart flavor."
+        }
+      ],
+      "propagation": {
+        "basic_requirements": "Bananas grow best in warm, humid conditions with abundant rainfall. Ideal temperature is between 20°C and 30°C. Requires a minimum of 1000mm of rainfall or irrigation per year. They grow best in well-drained, fertile soils with high organic matter, good aeration, and a pH of 5.5 to 7.0.",
+        "seeding": "Propagated through vegetative reproduction. Most common method is using 'suckers' or 'pups' from the mother plant. Another method is using rhizome or corm cuttings.",
+        "general_care_and_maintenance": "Apply a layer of organic mulch around the plant to conserve moisture and suppress weeds. Require regular watering, especially during dry periods. Apply balanced fertilizer based on soil test results. Prune off older, lower leaves as they yellow.",
+        "harvesting": "Harvest when fruit is mature (yellowing of fruit and leaves). Use a sharp, clean knife to cut the stem of the banana bunch."
+      },
+      "diseases": [
+        {
+          "name": "Anthracnose",
+          "scientific_name": "Colletotrichum musae",
+          "category": "Fungal",
+          "symptoms": "Brown spots on fruit peel; large brown to black areas; black lesions on green fruit.",
+          "cause": "Fungus",
+          "comments": "Wet conditions promote growth and spread of disease; spread by rainfall through plant or banana bunch.",
+          "management": "Commercially produced fruit should be washed and dipped in fungicide prior to shipping; protect fruit from injury; remove flower parts which can harbour fungus."
+        },
+        {
+          "name": "Black sigatoka (Black leaf streak)",
+          "scientific_name": "Mycosphaerella fijiensis",
+          "category": "Fungal",
+          "symptoms": "Red/brown flecks or spots on underside or topside of leaves; spots with dark or yellow border and grey centre; death of leaf surface; bunch not developing",
+          "cause": "Fungus",
+          "comments": "Currently the most important disease of banana; promoted by high moisture and spores spread by wind",
+          "management": "Export plantations may require regular fungicide applications; increase plant spacing to improve air circulation and reduce humidity; remove leaves with mature spots"
+        },
+        {
+          "name": "Cigar end rot",
+          "scientific_name": "Verticillium fructigena, Trachysphaera theobromae",
+          "category": "Fungal",
+          "symptoms": "Tips of fingers initially begin to darken and wrinkle; tips of fingers develop a dark rot; if Verticillium fungi are present then the rot is typically dry and the tips become mummified, if Trachysphaera is present, the rotted area become covered with white spores which gives the fingers the ashen appearance.",
+          "cause": "Fungus",
+          "comments": "Disease is of economic importance in Central and West Africa; it also occurs in India, Iran, South Africa, South America, the Canaries and the West Indies.",
+          "management": "Infected flowers should be removed from the plant; bunches should be bagged using perforated polyethylene; chemical control may be necessary in the case of severe infestations."
+        },
+        {
+          "name": "Cordana leaf spot",
+          "scientific_name": "Cordana musae",
+          "category": "Fungal",
+          "symptoms": "Lower leaves show oval shaped yellow or pale brown spots near leaf margins. Central dead brown area of spots is covered by concentric zonation surrounded by a yellow halo. Individual spots may join to form large necrotic areas.",
+          "cause": "Fungus",
+          "comments": "Favored by hot and humid condition. Pathogen mainly spreads by water splash and wind.",
+          "management": "Remove all infected leaves and burn them. If severe, spray copper based fungicides."
+        },
+        {
+          "name": "Panama disease (Fusarium wilt)",
+          "scientific_name": "Fusarium oxysporum f. sp. cubense",
+          "category": "Fungal",
+          "symptoms": "Reddish brown discoloration of vascular tissue by cut opening rhizomes and pseudostem. Above ground symptoms are yellowing of older leaves; splitting of leaf sheaths; leaves wilting and buckling; death of entire canopy.",
+          "cause": "Fungus",
+          "comments": "Very lethal disease spreading through soil, running water, and infected rhizome.",
+          "management": "Use disease free planting materials; currently no effective treatment once plants are infected."
+        },
+        {
+          "name": "Rhizome rot",
+          "scientific_name": "Erwinia carotovora, Erwinia chrysanthemi",
+          "category": "Bacterial",
+          "symptoms": "Pseudostem breaks from rhizome; rhizome will not germinate; internal tissue yellow/brown and watery",
+          "cause": "Bacteria",
+          "comments": "Bacteria live in soil and enter plant through wounds; encouraged by wet, humid conditions",
+          "management": "Select only high quality, disease-free rhizomes for propagation; disinfect tools regularly; allow seed pieces to dry before planting"
+        },
+        {
+          "name": "Yellow sigatoka",
+          "scientific_name": "Mycosphaerella musae",
+          "category": "Fungal",
+          "symptoms": "Pale green flecks on leaves which enlarge to chlorotic streaks; turn brown with chlorotic halo; mature lesions are gray with dark brown border; lesions coalesce and kill large areas of leaves",
+          "cause": "Fungus",
+          "comments": "Spores spread by wind, rain and irrigation water",
+          "management": "Export plantations may require regular fungicide applications; increase plant spacing; remove leaves with mature spots"
+        },
+        {
+          "name": "Banana bacterial wilt (BBW) / Banana xanthomonas wilt (BXW)",
+          "scientific_name": "Xanthomonas campestris pv. musacearum (Xcm)",
+          "category": "Bacterial",
+          "symptoms": "Yellow leaves which later turn brown and die. Male buds exhibit dry rot and blackening. Premature uneven ripening of fruits. Infected fruit show rusty brown discoloration in pulp. Infected parts ooze yellow bacteria after cut.",
+          "cause": "Bacteria",
+          "comments": "Mainly transmitted by insects, farm equipments, animals and infected rhizomes.",
+          "management": "Use disease free planting material. Roughing of infected plant and destroy them. Removing excess male buds. Disinfect farm equipments."
+        },
+        {
+          "name": "Moko disease",
+          "scientific_name": "Ralstonia solanacearum",
+          "category": "Bacterial",
+          "symptoms": "Older leaves chlorotic, wilted and collapsing; spreads to entire canopy; collapse of pseudostem",
+          "cause": "Bacterium",
+          "comments": "Can be spread root to root or by insects or human activities.",
+          "management": "Regularly monitor for presence of disease; male buds should be removed and tools disinfected; infected plants may need to be destroyed"
+        },
+        {
+          "name": "Banana mosaic",
+          "scientific_name": "Cucumber mosaic virus (CMV)",
+          "category": "Viral",
+          "symptoms": "Chlorotic mottling or stripes on foliage; distorted fruit which may have chlorotic streaks or mottling; distorted leaves; leaf necrosis",
+          "cause": "Virus",
+          "comments": "Transmitted by aphids; may be transmitted through infected seed",
+          "management": "Remove susceptible host plants; plant virus-free material"
+        },
+        {
+          "name": "Bunchy top",
+          "scientific_name": "Banana bunchy top virus (BBTV)",
+          "category": "Viral",
+          "symptoms": "Dark green streaks in leaves; chlorotic and upturned leaf margins; leaves brittle and erect; plant has a 'bunchy top'; no bunches produced",
+          "cause": "Virus",
+          "comments": "Aphid transmitted; symptoms appear after two more leaves are produced",
+          "management": "Plant less susceptible varieties; destroy infected plants to prevent spread"
+        }
+      ],
+      "pests": [
+        {
+          "name": "Banana aphid",
+          "scientific_name": "Pentalonia nigronervosa",
+          "category": "Insects",
+          "symptoms": "Deformed plants with curled, shriveled leaves; galls may form on leaves; colonies usually present in crown of plant or between outer leaf sheaths; aphid is soft-bodied and red-brown to almost black.",
+          "cause": "Insect",
+          "comments": "Colonies are often tended by ants; populations build rapidly during warm weather.",
+          "management": "Insecticidal soaps can help control aphid populations; plants infected with bunchy top should be removed."
+        },
+        {
+          "name": "Banana skipper",
+          "scientific_name": "Erionota thrax",
+          "category": "Insects",
+          "symptoms": "Larvae feed on leaves. Typically feeding involves incising and rolling up of leaves.",
+          "cause": "Insect",
+          "comments": "Pest is common in Southeast Asia and Pacific islands.",
+          "management": "Encourage and release natural enemies. Hand pick larvae and kill them."
+        },
+        {
+          "name": "Banana weevil",
+          "scientific_name": "Cosmopolites sordidus",
+          "category": "Insects",
+          "symptoms": "Reduced plant growth and fruit production; tunnels visible in corm; plants wilting and toppling over; destruction of root system; adult insect is a hard-shelled beetle; larvae are creamy-white, legless grubs with a red-brown head.",
+          "cause": "Insect",
+          "comments": "Insects are nocturnal, feeding and mating only at night",
+          "management": "Plant only healthy material; hot water treatment of clean trimmed suckers; apply neem powder; appropriate insecticides applied at planting."
+        },
+        {
+          "name": "Coconut scale",
+          "scientific_name": "Aspidiotus destructor",
+          "category": "Insects",
+          "symptoms": "Small, flat, whitish scales, usually on undersides of leaves but may attach to petioles, peduncles and fruit; plant tissue discolored and yellowing.",
+          "cause": "Insect",
+          "comments": "Attacks a large number of hosts; most common in tropical regions.",
+          "management": "Biological control is the best way to manage scale, with lady beetles providing the most effective protection."
+        }
+      ]
+    },
+    {
+      "name": "Alfalfa",
+      "scientific_name": "Medicago sativa",
+      "common_names": [
+        "lucerne",
+        "purple medic",
+        "alfalfa",
+        "mielga",
+        "luzerne",
+        "luzerna",
+        "अल्फाल्फा"
+      ],
+      "description": "Alfalfa, Medicago sativa, is an herbaceous perennial in the plant family Fabaceae primarily grown as a forage crop. It has a deeply penetrating taproot and upright stems. The leaves are made up of three individual leaflets. It produces purple flowers on racemes and spirally coiled seed pods. Alfalfa plants can reach a height of 120 cm (47 in) and live for between 3 and 8 years.",
+      "uses_and_benefits": "Used primarily as forage for animals (hay or silage). Can be used to increase nitrogen in the soil (cover crop). Good source of vitamins, calcium, iron, phosphorus, and potassium. Leaves and sprouted seeds can be consumed by humans.",
+      "varieties_selection_factors": [
+        "Purpose (hay vs. grazing)",
+        "Dormancy & Winterhardiness (ratings 1 to 10)",
+        "Disease and Pest Resistance",
+        "Forage Yield"
+      ],
+      "propagation": {
+        "basic_requirements": "Deep, fertile, well-draining soils with a pH between 6.0 and 7.0. Tolerates dry periods due to vigorous root system.",
+        "seeding": "Firm, weed-free seedbed. Plant depth varies by soil type (1/4 to 1/2 inch on medium/heavy soil; 1/2 to 1 inch on sandy soil). Cover seeds with moist soil.",
+        "general_care_and_maintenance": "Keep free from weeds using pre-plant herbicides. Apply fertilizer according to soil tests (lime, phosphorus, potash are important).",
+        "harvesting": "Harvested between late bud and early bloom stage for high quality feed without reducing stand quality. Usually harvested by combine and baled as hay."
+      },
+      "diseases": [
+        {
+          "name": "Alfalfa mosaic",
+          "scientific_name": "Alfalfa mosaic virus (AMV)",
+          "category": "Viral",
+          "symptoms": "Yellow streaks parallel to leaf veins; yellow-green mottling of leaves; distorted leaves; stunted plant growth.",
+          "cause": "Virus",
+          "comments": "Transmitted by aphids; spread via infected seed and pollen.",
+          "management": "Plant resistant cultivars; control aphid populations; use virus-free seed."
+        },
+        {
+          "name": "Anthracnose",
+          "scientific_name": "Colletotrichum trifolii",
+          "category": "Fungal",
+          "symptoms": "Large diamond shaped lesions with white centers on lower stems; young dead shoots take on 'shepherds crook' appearance.",
+          "cause": "Fungus",
+          "comments": "More common in warm weather and high moisture.",
+          "management": "Cannot be managed in established stands; cut crop before major losses occur."
+        },
+        {
+          "name": "Common leaf spot",
+          "scientific_name": "Pseudopeziza medicaginis",
+          "category": "Fungal",
+          "symptoms": "Small circular brow-black spots with uneven margins; leaves turning yellow and dropping; raised brown fungal fruiting bodies in cool wet weather.",
+          "cause": "Fungus",
+          "comments": "More common during periods of high rainfall.",
+          "management": "Harvest early; rotate crops."
+        },
+        {
+          "name": "Downy mildew",
+          "scientific_name": "Peronospora trifoliorum",
+          "category": "Fungal",
+          "symptoms": "Young leaflets dwarfed, twisted, cupped downward; light green or yellow blotches; gray downy growth in cool wet weather.",
+          "cause": "Fungus",
+          "comments": "Pathogen spread by wind or splashing water.",
+          "management": "Grow resistant cultivars; cut crop in prebloom stage; sow in Spring."
+        },
+        {
+          "name": "Fusarium wilt",
+          "scientific_name": "Fusarium oxysporum f. sp. medicaginis",
+          "category": "Fungal",
+          "symptoms": "Wilting shoots followed by bleaching of leaves and stem; rapid wilting on one side of plant; red streaks in root stele.",
+          "cause": "Fungus",
+          "comments": "Emergence favored by high soil temperatures.",
+          "management": "Plant resistant varieties."
+        },
+        {
+          "name": "Lepto leaf spot",
+          "scientific_name": "Leptosphaerulina trifolii",
+          "category": "Fungal",
+          "symptoms": "Small red-brown flecks on leaves and petioles developing into lesions with tan center and irregular brown margins; necrotic leaves remain attached.",
+          "cause": "Fungus",
+          "comments": "Occurs wherever alfalfa is grown.",
+          "management": "Plant resistant cultivars, use certified seed, rotate crop (e.g., soybean) for at least 2 years."
+        },
+        {
+          "name": "Aphanomyces root rot",
+          "scientific_name": "Aphanomyces euteiches",
+          "category": "Oomycete",
+          "symptoms": "Yellow cotyledons on seedlings; stunted growth; decaying roots in established plants resembling nitrogen deficiency.",
+          "cause": "Oomycete",
+          "comments": "Spread in moist soils over wide temperature range.",
+          "management": "Grow resistant varieties; plant in well draining soil."
+        },
+        {
+          "name": "Phytophthora root and stem rot",
+          "scientific_name": "Phytophthora megasperma",
+          "category": "Oomycete",
+          "symptoms": "Chlorotic/reddish leaves which drop; rotted roots which are yellow-brown turning black.",
+          "cause": "Fungus",
+          "comments": "Disease more prevalent in water saturated soil.",
+          "management": "Grow resistant cultivars; improve drainage."
+        },
+        {
+          "name": "Bacterial wilt",
+          "scientific_name": "Clavibacter michiganense subsp insidiosus",
+          "category": "Bacterial",
+          "symptoms": "Stunted plants with small leaves/stems; bunchy appearance; leaves curling upwards; chlorotic leaflets; death of plants.",
+          "cause": "Bacterium",
+          "comments": "Important disease in the US.",
+          "management": "Plant resistant cultivars."
+        },
+        {
+          "name": "Damping off",
+          "scientific_name": "Pythium spp., Rhizoctonia solani, Phytophthora megasperma",
+          "category": "Fungal, Oomycete",
+          "symptoms": "Failure of seedling to emerge; brown water-soaked roots/stems; collapse and death.",
+          "cause": "Oomycete Fungi",
+          "comments": "Occurs more often in cold temperatures and moist soil.",
+          "management": "Treat seeds with fungicide prior to planting."
+        }
+      ],
+      "pests": [
+        {
+          "name": "Alfalfa caterpillar",
+          "scientific_name": "Colias eurytheme",
+          "category": "Insects",
+          "symptoms": "Defoliation of plants; entire leaf consumed; adult insects are yellow-orange to white butterflies; larvae are bright green caterpillars with white side stripes.",
+          "cause": "Insect",
+          "comments": "Damage most severe when eggs laid in recently cut fields.",
+          "management": "Avoid unnecessary insecticides; apply Bacillus thuringiensis; harvest crop early."
+        },
+        {
+          "name": "Alfalfa weevil",
+          "scientific_name": "Hypera postica",
+          "category": "Insects",
+          "symptoms": "Leaves skeletonized and bronzed; complete defoliation; adults are dark gray beetles; larvae are pale green grubs with white line on back.",
+          "cause": "Insect",
+          "comments": "Overwinters in crop debris; both adults and larvae damage plants.",
+          "management": "Focus treatment before first cutting; cutting before budding kills most weevils; apply appropriate insecticide."
+        },
+        {
+          "name": "Aphids (Cowpea, Blue alfalfa, Pea)",
+          "scientific_name": "Aphis craccivora, Acyrthosiphon kondoi, Acyrthosiphon pisum",
+          "category": "Insects",
+          "symptoms": "Soft bodied insects; injects toxin stunting growth; secretes honeydew encouraging sooty mold.",
+          "cause": "Insect",
+          "comments": "Blue/pea aphids prefer cooler temps; cowpea aphids are black and colonize stems.",
+          "management": "Insecticides for high infestations; insecticidal soaps, neem or canola oil."
+        },
+        {
+          "name": "Beet armyworm",
+          "scientific_name": "Spodoptera exigua",
+          "category": "Insects",
+          "symptoms": "Holes in foliage; skeletonized leaves; cottony egg clusters; pale green to darker green larvae with lines.",
+          "cause": "Insect",
+          "comments": "3-5 generations a year.",
+          "management": "Biological control; Bacillus thuringiensis."
+        },
+        {
+          "name": "Threecornered alfalfa hopper",
+          "scientific_name": "Spissistilus festinus",
+          "category": "Insects",
+          "symptoms": "Stems girdled causing parts to break and turn red/purple/yellow; adults are green wedge-shaped insects.",
+          "cause": "Insect",
+          "comments": "Also a pest of soybean.",
+          "management": "Applications of appropriate insecticide if problematic."
+        }
+      ]
+    },
+    {
+      "name": "Maize (corn)",
+      "scientific_name": "Zea mays",
+      "common_names": [
+        "Mahindi",
+        "maíz",
+        "maïs",
+        "Mais",
+        "grano",
+        "mais",
+        "milho",
+        "玉米",
+        "मक्का",
+        "ذرة",
+        "кукуруза"
+      ],
+      "description": "Maize is a staple food for almost half the population of sub-Saharan Africa. Grown through subsistence farming as part of mixed agricultural systems.",
+      "uses_and_benefits": "Staple food providing carbohydrates, fiber, vitamins, and minerals. Processed to produce maize meal, porridge, cornmeal, corn syrup, cooking oil, animal feed, biofuels, and biodegradable plastics.",
+      "varieties": [
+        "H614",
+        "H6213",
+        "DH01",
+        "PH4",
+        "DK8031",
+        "Longe 5H",
+        "Staha",
+        "Kilima",
+        "Situka",
+        "TMV-1",
+        "Kito",
+        "Longe 4",
+        "Longe 8 H",
+        "Longe 5 (Nalongo)"
+      ],
+      "propagation": {
+        "basic_requirements": "Warm temperatures (15-30°C). Rainfall 1200-2500mm (adapts down to 400mm). Favorable pH 5-8 (5.5-7 optimal).",
+        "seeding": "Prepare land early. Spray weeds, plough, level, mix manure/biochar. Spacing 90x30-50 cm or 75x25-50 cm. Plant 1-2 seeds per hole at depth of 4-10 cm.",
+        "general_care_and_maintenance": "Gapping and thinning. Apply fertilizer (DAP, CAN, urea). Top dress 2-3 weeks after planting. Remove weeds mechanically or manually.",
+        "harvesting": "Ready when kernels are well packed and produce a milky substance when punctured."
+      },
+      "physiological_diseases": {
+        "Nitrogen deficiency": "Pale green plant; 'V' shaped yellow coloration on leaves from leaf end to leaf collar starting from lower leaves.",
+        "Phosphorous deficiency": "Dark green plants, lower leaves show reddish-purple discoloration.",
+        "Potassium deficiency": "Leaf margins turn yellow and brown (firing/drying). Progresses from lower to upper leaves.",
+        "Sulfur deficiency": "Yellow color striping (interveinal chlorosis) on younger leaves.",
+        "Zinc deficiency": "Broad bands of yellow coloration on upper leaves turning pale brown or gray necrosis. Shortening of internodes."
+      },
+      "diseases": [
+        {
+          "name": "Anthracnose",
+          "scientific_name": "Colletotrichum graminicola",
+          "category": "Fungal",
+          "symptoms": "Water-soaked oval spots on leaves enlarging with tan center and red-brown border; top dieback and stalk rot.",
+          "cause": "Fungus",
+          "management": "Plant resistant hybrids; crop rotation; plowing crop debris."
+        },
+        {
+          "name": "Cercospora leaf spot (Gray leaf spot)",
+          "scientific_name": "Cercospora zeae-maydis",
+          "category": "Fungal",
+          "symptoms": "Necrotic spots expanding to rectangular lesions 1-6 cm in length; lesions turn gray and are opaque with parallel edges.",
+          "cause": "Fungus",
+          "management": "Plant resistant hybrids; crop rotation; foliar fungicides for susceptible hybrids."
+        },
+        {
+          "name": "Charcoal rot",
+          "scientific_name": "Macrophomina phaseolina",
+          "category": "Fungal",
+          "symptoms": "Stalks become shredded and pith rotted with stringy strands left; black fungal fruiting bodies in vascular strands.",
+          "cause": "Fungus",
+          "management": "Good water management; rotate crops with small grains."
+        },
+        {
+          "name": "Common rust",
+          "scientific_name": "Puccinia sorghi",
+          "category": "Fungal",
+          "symptoms": "Cinnamon brown pustules rupturing to release powdery red/brown spores on leaves.",
+          "cause": "Fungus",
+          "management": "Plant resistant hybrids; apply fungicides."
+        },
+        {
+          "name": "Common smut",
+          "scientific_name": "Ustilago zeae",
+          "category": "Fungal",
+          "symptoms": "Tumor-like galls initially green-white turning into powdery dark brown/black spores on ears, tassels, or shoots.",
+          "cause": "Fungus",
+          "management": "Grow resistant corn hybrids."
+        },
+        {
+          "name": "Downy Mildew disease",
+          "scientific_name": "Peronosclerospora spp., Sclerophthora spp., Sclerospora spp.",
+          "category": "Fungal",
+          "symptoms": "Chlorosis and stunting; leaves show mottling, chlorotic streaking; white downy growth on surfaces.",
+          "cause": "Fungus",
+          "management": "Grow resistant varieties; crop rotation; systemic fungicide seed treatment."
+        },
+        {
+          "name": "Giberrella stalk and ear rot",
+          "scientific_name": "Giberella zeae",
+          "category": "Fungal",
+          "symptoms": "Lower stalk straw yellow; internal red discoloration; pink mold on ear tips.",
+          "cause": "Fungus",
+          "management": "Adequate fertilization and irrigation; control insects (borers)."
+        },
+        {
+          "name": "Northern Leaf Blight",
+          "scientific_name": "Exserohilum turcicum",
+          "category": "Fungal",
+          "symptoms": "Elliptical gray-green lesions on leaves turning pale gray/tan; long narrow lesions unrestricted by veins.",
+          "cause": "Fungus",
+          "management": "Proper tillage; crop rotation; resistant varieties; fungicide."
+        },
+        {
+          "name": "Southern corn leaf blight",
+          "scientific_name": "Bipolaris maydis",
+          "category": "Fungal",
+          "symptoms": "Tan elongated lesions running between leaf veins with buff/brown margin.",
+          "cause": "Fungus",
+          "management": "Plant resistant hybrids; plowing debris; crop rotation."
+        },
+        {
+          "name": "Bacterial leaf blight/stripe",
+          "scientific_name": "Pseudomonas rubrilineans, Acidvorax avenae subsp. avenae",
+          "category": "Bacterial",
+          "symptoms": "Water-soaked linear lesions turning brown/white with red border; shredding mature leaves.",
+          "cause": "Bacterium",
+          "management": "Resistant hybrids."
+        },
+        {
+          "name": "Bacterial Leaf Streak disease",
+          "scientific_name": "Xanthomonas vasicola pv. vasculorum",
+          "category": "Bacterial",
+          "symptoms": "Narrow stripes between veins with wavy edges, appearing brown/orange/yellow when back-lit.",
+          "cause": "Bacterium",
+          "management": "Healthy seeds; remove plant debris; crop rotation."
+        },
+        {
+          "name": "Bacterial stalk rot/soft rot",
+          "scientific_name": "Erwinia chrysanthemi, Erwinia carotovora",
+          "category": "Bacterial",
+          "symptoms": "Lodging midway through season; internodes turn brown, soft and slimy with foul odor.",
+          "cause": "Bacterium",
+          "management": "Plow debris; plant in well-draining soil."
+        },
+        {
+          "name": "Goss's bacterial blight",
+          "scientific_name": "Clavibacter michiganensis",
+          "category": "Bacteria",
+          "symptoms": "Gray/yellow stripes with irregular margins containing dark green/black water-soaked spots; crystalline residue.",
+          "cause": "Bacteria",
+          "management": "Resistant hybrids; rotate crop; plow debris."
+        },
+        {
+          "name": "Holcus spot",
+          "scientific_name": "Pseudomonas syringae",
+          "category": "Bacterium",
+          "symptoms": "Circular spots near leaf tips, dark green becoming cream/tan dry.",
+          "cause": "Bacterium",
+          "management": "Rotate crops; plow debris."
+        },
+        {
+          "name": "Stewart’s wilt",
+          "scientific_name": "Erwinia stewartii",
+          "category": "Bacterium",
+          "symptoms": "Water soaked lesions becoming long and pale yellow with irregular margins; causes stunting and wilting.",
+          "cause": "Bacterium",
+          "management": "Resistant varieties; certified seeds; insecticide for flea beetles."
+        },
+        {
+          "name": "Maize dwarf mosaic",
+          "scientific_name": "Maize dwarf mosaic virus (MDMV)",
+          "category": "Viral",
+          "symptoms": "Chlorotic spots/streaks developing into mosaic pattern; stunted plants.",
+          "cause": "Virus",
+          "management": "Tolerant hybrids; control aphids; remove Johnson grass."
+        },
+        {
+          "name": "Maize Lethal Necrosis Disease (MLND)",
+          "scientific_name": "MCMoV + SCMV/WSMV/MDMV",
+          "category": "Viral",
+          "symptoms": "Chlorotic mottling from base up; necrosis at margins leading to dead heart; shortened malformed ears.",
+          "cause": "Virus",
+          "management": "Disease free seeds; control vectors (insecticide); crop rotation; resistant varieties."
+        },
+        {
+          "name": "Pythium root rot",
+          "scientific_name": "Pythium spp.",
+          "category": "Oomycete",
+          "symptoms": "Yellow/stunted plants; discolored roots; root cortex pulls away exposing white stele.",
+          "cause": "Fungus",
+          "management": "Improve soil drainage; systemic fungicides for seed."
+        }
+      ],
+      "pests": [
+        {
+          "name": "Slugs",
+          "scientific_name": "Various",
+          "category": "Other",
+          "symptoms": "Irregular holes in leaves and stems; slime trails present.",
+          "cause": "Mollusc",
+          "management": "Sanitation; handpicking; wood ashes/eggshells; beer traps; metaldehyde."
+        },
+        {
+          "name": "Aphids",
+          "scientific_name": "Rhopalosiphum maidis, Myzus persicae",
+          "category": "Insects",
+          "symptoms": "Curled leaves, stunted plants, honeydew secretions.",
+          "cause": "Insects",
+          "management": "Usually no control warranted."
+        },
+        {
+          "name": "Corn earworm",
+          "scientific_name": "Helicoverpa zea",
+          "category": "Insects",
+          "symptoms": "Feeding damage on ear tip producing extensive excrement; severed silks.",
+          "cause": "Insect",
+          "management": "Monitor eggs; Bacillus thuringiensis; Entrust SC."
+        },
+        {
+          "name": "Cutworms",
+          "scientific_name": "Agrotis ipsilon, Peridroma saucia",
+          "category": "Insects",
+          "symptoms": "Severed stems of young transplants at soil line; larvae curl in C-shape.",
+          "cause": "Insects",
+          "management": "Remove plant residue; plastic/foil collars; diatomaceous earth."
+        },
+        {
+          "name": "Fall Armyworm",
+          "scientific_name": "Spodoptera frugiperda",
+          "category": "Insects",
+          "symptoms": "Ragged feeding, sawdust-like frass; windowpane leaves; destroyed tassels.",
+          "cause": "Insects",
+          "management": "Biological control; Bacillus thuringiensis."
+        },
+        {
+          "name": "Flea beetles",
+          "scientific_name": "Chaetocnema pulicaria, Altica spp.",
+          "category": "Insects",
+          "symptoms": "Small holes/pits in leaves (shothole appearance); shiny jumping beetles.",
+          "cause": "Insects",
+          "management": "Floating row covers; plant early; trap crops; neem oil; carbaryl."
+        },
+        {
+          "name": "Thrips",
+          "scientific_name": "Various",
+          "category": "Insects",
+          "symptoms": "Silver streaks, sandblasted appearance, curled distorted leaves.",
+          "cause": "Insects",
+          "management": "Avoid planting next to onions/garlic; reflective mulches."
+        },
+        {
+          "name": "Root knot nematode",
+          "scientific_name": "Meloidogyne spp.",
+          "category": "Nematodes",
+          "symptoms": "Galls on roots; stunted yellow patchy growth.",
+          "cause": "Nematode",
+          "management": "Deep summer ploughing; crop rotation; resistant varieties."
+        },
+        {
+          "name": "Spider mites",
+          "scientific_name": "Various",
+          "category": "Mites",
+          "symptoms": "Leaves stippled with yellow/bronzed; webbing on underside.",
+          "cause": "Arachnid",
+          "management": "Strong jet of water; insecticidal soap."
+        }
+      ]
+    },
+    {
+      "name": "Pearl Millet",
+      "scientific_name": "Pennisetum glaucum",
+      "common_names": [
+        "bulrush millet",
+        "cat-tail millet",
+        "yellow bristle grass",
+        "bajra",
+        "kambu",
+        "duhkn"
+      ],
+      "description": "Pearl millet, Pennisetum glaucum, is an annual grass grown widely in Africa and India for its grain. A robust grass which tillers widely, growing in tufts with slender stems divided into nodes. Inflorescence is a spike-like panicle. Grows 0.5 to 4 m in height.",
+      "uses_and_benefits": "Grain ground into flour for porridge or flat bread. Cooked like couscous or rice. Stems used for roof thatch and building construction. Often grown as fodder outside Africa/India.",
+      "propagation": {
+        "basic_requirements": "Adapted to dry conditions, low rainfall. Warm season crop (21–25°C). Tolerant of acidic, sandy, nutrient-poor soils (pH 6.0-7.0) but not waterlogging.",
+        "seeding": "Propagated directly from seed sown in well-prepared seedbeds when soil is at least 20°C. Sown in furrows or broadcast.",
+        "general_care_and_maintenance": "Maintain weed-free seedbed early on. Often rainfed in Africa with minimal nitrogen to prevent rapid vegetative growth depleting water.",
+        "harvesting": "Reaches maturity between 50 and 180 days. Harvested by hand by cutting spikes or whole plant."
+      },
+      "diseases": [
+        {
+          "name": "Cercospora leaf spot",
+          "scientific_name": "Cercospora penniseti",
+          "category": "Fungal",
+          "symptoms": "Small dark oval/oblong lesions with gray/tan centers and black dots on leaves and stems.",
+          "cause": "Fungus",
+          "management": "Avoid susceptible varieties; control weeds; rotate crops; practice good sanitation."
+        },
+        {
+          "name": "Ergot",
+          "scientific_name": "Claviceps fusiformis",
+          "category": "Fungal",
+          "symptoms": "Viscous creamy-pink exudations (honeydew) on flowering heads; hard brown spiky structures (sclerotia).",
+          "cause": "Fungus",
+          "comments": "Poisonous alkaloids pose health hazard. Infects via stigmas.",
+          "management": "Host plant resistance; pollen management; avoid rainy flowering; remove and burn infected inflorescences."
+        },
+        {
+          "name": "Pearl Millet Downy Mildew",
+          "scientific_name": "Sclerospora graminicola",
+          "category": "Oomycete",
+          "symptoms": "Chlorosis at leaf base extending to tips; white powdery growth on underside; 'green-ear' symptoms where grain is replaced by whip-like vegetative structures.",
+          "cause": "Oomycete",
+          "management": "Rogue infected plants; treat seeds with systemic fungicide (metalaxyl); use resistant cultivars."
+        },
+        {
+          "name": "Rust",
+          "scientific_name": "Puccinia substriata",
+          "category": "Fungal",
+          "symptoms": "Small yellow/white raised spots enlarging into red-brown pustules with yellow halo.",
+          "cause": "Fungus",
+          "management": "Plant resistant varieties; avoid overhead irrigation; avoid proximity to Solanaceous crops."
+        },
+        {
+          "name": "Smut",
+          "scientific_name": "Tolyposporium penicillariae",
+          "category": "Fungal",
+          "symptoms": "Infected florets develop as plump green sacs turning dark brown/black filled with spores.",
+          "cause": "Fungus",
+          "management": "Use resistant cultivars."
+        },
+        {
+          "name": "Striga or Purple Witchweed",
+          "scientific_name": "Striga hermonthica",
+          "category": "Weed",
+          "symptoms": "Severe crop losses, parasitized plants.",
+          "cause": "Weed",
+          "comments": "Parasitic plant that extracts moisture and nutrients from roots.",
+          "management": "Host-plant resistance; hand-pulling; use 'trap' crops like cowpea; seed treatments."
+        }
+      ],
+      "pests": []
+    },
+    {
+      "name": "Cassava (manioc)",
+      "scientific_name": "Manihot esculenta",
+      "common_names": [
+        "Brazilian arrowroot",
+        "yuca",
+        "tapioca"
+      ],
+      "description": "A perennial shrub in the family Euphorbiaceae grown primarily for its storage roots which are eaten as a vegetable. Produces erect stems, lobed leaves, and cylindrical tapered roots (white, brown, reddish). Can reach 4 m in height. Major staple food providing basic diet for over half a billion people.",
+      "uses_and_benefits": "Roots eaten as vegetable (must be cooked due to toxicity in raw form). Produces flour, starch, ethanol. Leaves consumed after cooking. Cassava hay used for animal feed. Also used in adhesives, textiles, cosmetics.",
+      "propagation": {
+        "basic_requirements": "Requires warm temperatures (25-32°C), moist climates. Drought resistant, marginal soil tolerant, best in well-draining sandy clay loam (pH 5.5-6.5). Requires full sun.",
+        "seeding": "Propagated from stem cuttings (from healthy, 10-month old stems that have borne tubers). Cuttings should have 1-2 nodes and be 20 cm long.",
+        "general_care_and_maintenance": "Dip cuttings in fungicide. Presprout in trays or plant directly in nursery/field. Space 75-100 cm apart. Fertilize with manure.",
+        "harvesting": "Ready 9-12 months after planting. Harvested by digging roots carefully to prevent damage."
+      },
+      "diseases": [
+        {
+          "name": "Anthracnose",
+          "scientific_name": "Colletotrichum gloeosporioides",
+          "category": "Fungal",
+          "symptoms": "Cankers on stems/petioles; wilting drooping leaves defoliation; distorted soft parts.",
+          "cause": "Fungus",
+          "management": "Avoid planting cuttings with cankers; remove and destroy crop debris."
+        },
+        {
+          "name": "Cassava Brown Leaf Spot",
+          "scientific_name": "Cercosporidium henningsii",
+          "category": "Fungal",
+          "symptoms": "Circular/irregular brown spots on older leaves, centers may drop out (shothole).",
+          "cause": "Fungus",
+          "management": "Remove leaves, weeds, and crop debris."
+        },
+        {
+          "name": "White leaf spot",
+          "scientific_name": "Cercospora vicosae",
+          "category": "Fungal",
+          "symptoms": "Large, diffuse white spots on upper leaf surfaces; grey centers on underside.",
+          "cause": "Fungus",
+          "management": "Remove leaves and crop debris; remove weeds."
+        },
+        {
+          "name": "Witches' broom",
+          "scientific_name": "Cassava witches'-broom phytoplasma",
+          "category": "Phytoplasma",
+          "symptoms": "Stunted plants, excessive branch proliferation; small leaves, shortened internodes.",
+          "cause": "Phytoplasma",
+          "management": "Destroy infected plants; disinfect tools; remove debris."
+        },
+        {
+          "name": "Bud necrosis",
+          "scientific_name": "Unknown",
+          "category": "Fungal",
+          "symptoms": "Patches of dark brown/gray fungal growth on stems; necrotic areas covering buds.",
+          "cause": "Fungus",
+          "management": "Take cuttings from healthy plants; space plants widely; burn necrotic stems."
+        },
+        {
+          "name": "Cassava Brown Streak Disease",
+          "scientific_name": "Cassava brown streak virus (CBSV)",
+          "category": "Viral",
+          "symptoms": "Chlorotic vein banding on leaves; brown elongated necrotic lesions on stems; hard brown rot inside tubers, malformation.",
+          "cause": "Virus",
+          "management": "Use healthy cuttings; plant tolerant varieties; rogue infected plants; harvest early; control whiteflies."
+        },
+        {
+          "name": "Cassava Mosaic Disease",
+          "scientific_name": "African cassava mosaic virus (ACMV)",
+          "category": "Viral",
+          "symptoms": "Discolored pale green/yellow/white mottled and distorted leaves; stunted growth.",
+          "cause": "Virus",
+          "management": "Plant resistant varieties; uproot infected plants; control whitefly vector."
+        },
+        {
+          "name": "Cassava Bacterial Blight",
+          "scientific_name": "Xanthomonas manihotis",
+          "category": "Bacterial",
+          "symptoms": "Water-soaked angular brown lesions; leaf blighting; dieback; brown gum on stems/petioles.",
+          "cause": "Bacterium",
+          "management": "Rotate with non-host; plow/burn debris; propagate healthy cuttings; intercrop with corn/melon."
+        },
+        {
+          "name": "Cassava root rot disease",
+          "scientific_name": "Macrophomina, Botryodiplodia, Fusarium spp.",
+          "category": "Bacterial, Fungal",
+          "symptoms": "Brown wilting leaves; root dieback; swollen tubers with brown/gray/pink discoloration and foul odor.",
+          "cause": "Fungi",
+          "management": "Plant in well-draining soils; burn crop debris; sanitize tools."
+        }
+      ],
+      "pests": [
+        {
+          "name": "African root and tuber scale",
+          "scientific_name": "Strictococcus vayssierrei",
+          "category": "Insects",
+          "symptoms": "Oval scales on stems, roots, tubers; kills young plants, shriveled at feeding sites.",
+          "cause": "Insect",
+          "management": "Add organic matter to soil; destroy infested stems; use clean cuttings."
+        },
+        {
+          "name": "Cassava scale",
+          "scientific_name": "Aonidomytilus albus",
+          "category": "Insects",
+          "symptoms": "Stem surfaces covered with white waxy substance; wilting leaves; stunted plants.",
+          "cause": "Insect",
+          "management": "Use clean plant material; destroy infested stems; apply organic matter."
+        },
+        {
+          "name": "Grasshoppers",
+          "scientific_name": "Zonocerus spp.",
+          "category": "Insects",
+          "symptoms": "Defoliated plants; bark removed from stems.",
+          "cause": "Insect",
+          "management": "Hand pick; destroy egg pods; use biopesticides or neem products."
+        },
+        {
+          "name": "Cassava Green Mite",
+          "scientific_name": "Mononychellus spp.",
+          "category": "Mites",
+          "symptoms": "Yellow stippling/chlorosis of leaves; deformed stunted leaves; terminal leaves drop.",
+          "cause": "Arachnid",
+          "management": "Plant tolerant varieties; plant early in rainy season; intercrop cowpea; predatory mites (Typhlodromalus aripo)."
+        },
+        {
+          "name": "Two-spotted spider mite",
+          "scientific_name": "Tetranychus spp.",
+          "category": "Mites",
+          "symptoms": "Bronzed, yellow stippled leaves covered in webbing.",
+          "cause": "Arachnid",
+          "management": "Strong jet of water; insecticidal soap."
+        },
+        {
+          "name": "Root knot nematode",
+          "scientific_name": "Meloidogyne spp.",
+          "category": "Nematodes",
+          "symptoms": "Galls on roots; reduced vigor; wilting yellowing plants in hot weather.",
+          "cause": "Nematode",
+          "management": "Plant resistant varieties; solarize soil."
+        }
+      ]
+    },
+    {
+      "name": "Rice",
+      "scientific_name": "Oryza sativa / Oryza glaberrima",
+      "common_names": [
+        "Mchele",
+        "Mpunga"
+      ],
+      "description": "Two species of cultivated rice: Asian rice (Oryza sativa) and African rice (Oryza glaberrima). Annual grasses cultivated for their grain, a staple food globally. Rounded stems (culms) divided into nodes. Grows in four ecosystems: irrigated rain-fed lowland, upland, and flood-prone.",
+      "uses_and_benefits": "Vital staple food offering carbohydrates, vitamins, minerals. Gluten-free. Used in animal feed, cosmetics, rice bran oil. Supports farmers and biodiversity.",
+      "varieties": [
+        "Sindano",
+        "Basmati 217",
+        "Basmati 370",
+        "IR 2035-25-2",
+        "IR 2793-80-1",
+        "BW 96",
+        "UP 254",
+        "NERICA",
+        "Supa",
+        "IR 54",
+        "IR 22",
+        "Katrin",
+        "Dakawa",
+        "TXD 85",
+        "TXD 88",
+        "SARO 5",
+        "Kalalu",
+        "Mwangaza"
+      ],
+      "propagation": {
+        "basic_requirements": "Water saturated or submerged land. Optimal temps 20-37.7°C. pH 5-7. Requires 800-2000 mm rainfall or irrigation. Friable loam overlying heavy clay preferred.",
+        "seeding": "Propagated by seed (broadcast or drilled) directly or seedlings in nurseries. Hot water treatment for disinfection. Pre-sprouting used for uniform germination.",
+        "general_care_and_maintenance": "Wetland or dryland tillage. Maintain adequate water levels (2-5 cm). Apply balanced fertilizers (N, P, K) at planting, tillering, and panicle initiation.",
+        "harvesting": "Harvest when 80-90% of grains turn golden yellow. Manual sickles or mechanical combine harvesters. Thresh and dry grains."
+      },
+      "diseases": [
+        {
+          "name": "Bacterial leaf streak",
+          "scientific_name": "Xanthomonas oryzae",
+          "category": "Bacterial",
+          "symptoms": "Water-soaked streaks between leaf veins turning translucent then light brown; yellow bacterial exudate beads; leaves turn brown/gray-white.",
+          "cause": "Bacterium",
+          "management": "Resistant varieties; treated seed."
+        },
+        {
+          "name": "Leaf scald",
+          "scientific_name": "Microdochium oryzae",
+          "category": "Fungal",
+          "symptoms": "Scalded appearance on leaves; alternating light tan and dark brown zones; margins and tips translucent.",
+          "cause": "Fungus",
+          "management": "Resistant varieties; treat seeds with fungicide; split nitrogen applications."
+        },
+        {
+          "name": "Rice Bacterial blight",
+          "scientific_name": "Xanthomonas oryzae pv. oryzae",
+          "category": "Bacterial",
+          "symptoms": "Water-soaked yellow/white stripes on leaf blades; grayish leaves; wilting and rolling up; stunting.",
+          "cause": "Bacterium",
+          "management": "Plant resistant varieties; avoid excessive nitrogen; plow stubble/straw."
+        },
+        {
+          "name": "Bakanae",
+          "scientific_name": "Fusarium moniliforme",
+          "category": "Fungal",
+          "symptoms": "Elongated, slender pale seedlings; abnormal elongation of older plants; sterile panicles.",
+          "cause": "Fungus",
+          "management": "Treat seeds with fungicides; less susceptible varieties."
+        },
+        {
+          "name": "Brown spot",
+          "scientific_name": "Cochliobolus miyabeanus",
+          "category": "Fungal",
+          "symptoms": "Circular brown lesions; black root discoloration; oval lesions with gray center on older plants; brown/black spots on grain.",
+          "cause": "Fungus",
+          "management": "Ensure correct nutrients/avoid water stress; chemical seed treatments."
+        },
+        {
+          "name": "False smut",
+          "scientific_name": "Ustilaginoidea virens",
+          "category": "Fungal",
+          "symptoms": "Grains covered with orange fungal mass turning greenish velvet then charcoal black.",
+          "cause": "Fungus",
+          "management": "Hot water seed treatment (52 C); rogue infected plants; use resistant varieties; alternate wetting/drying."
+        },
+        {
+          "name": "Narrow leaf spot",
+          "scientific_name": "Cercospora oryzae",
+          "category": "Fungal",
+          "symptoms": "Short elliptical/linear brown lesions; leaf necrosis; premature ripening.",
+          "cause": "Fungus",
+          "management": "Hot water or fungicide seed treatment."
+        },
+        {
+          "name": "Rice blast",
+          "scientific_name": "Magnaporthe grisea",
+          "category": "Fungal",
+          "symptoms": "White/green/gray diamond-shaped lesions with dark green borders; rotting panicles.",
+          "cause": "Fungus",
+          "management": "Resistant varieties; avoid over-fertilizing with nitrogen; systemic fungicides."
+        },
+        {
+          "name": "Sheath blight",
+          "scientific_name": "Rhizoctonia solani",
+          "category": "Fungal",
+          "symptoms": "Green/gray water-soaked spots on leaf sheaths with white centers; poorly filled grains.",
+          "cause": "Fungus",
+          "management": "Avoid excessive nitrogen; apply foliar fungicides."
+        },
+        {
+          "name": "Stem rot",
+          "scientific_name": "Magnaporthe salvinii",
+          "category": "Fungal",
+          "symptoms": "Black lesions on outer leaf sheath at water-line expanding inward; culm rots leading to lodging.",
+          "cause": "Fungus",
+          "management": "Bury crop residue; avoid excessive nitrogen; less susceptible varieties."
+        },
+        {
+          "name": "Grassy stunt",
+          "scientific_name": "Rice grassy stunt virus (RGSV)",
+          "category": "Viral",
+          "symptoms": "Stunted plants; narrow pale green/yellow leaves; mottled/striped newly unfolded leaves; few/no panicles.",
+          "cause": "Virus",
+          "management": "Vector resistant varieties; insecticides for leaf hoppers."
+        },
+        {
+          "name": "Tungro",
+          "scientific_name": "Rice tungro bacilliform virus (RTBV)",
+          "category": "Viral",
+          "symptoms": "Stunted plants, yellow-orange discoloration; reduced tillers; mottled/striped leaves.",
+          "cause": "Virus",
+          "management": "Resistant varieties; synchronous planting; crop rotation."
+        }
+      ],
+      "pests": [
+        {
+          "name": "Leafhoppers & planthoppers",
+          "scientific_name": "Nephotettix spp., Nilaparvata lugens, etc.",
+          "category": "Insects",
+          "symptoms": "Feeding punctures; transmits viruses; plants dry out completely.",
+          "cause": "Insect",
+          "management": "Rotate crop; conserve natural enemies; plant resistant varieties; insecticides if at economic threshold."
+        },
+        {
+          "name": "Mole cricket",
+          "scientific_name": "Gryllotalpa orientalis",
+          "category": "Insects",
+          "symptoms": "Cuts tillers at ground level causing gaps in fields.",
+          "cause": "Insect",
+          "management": "Resistant varieties; irrigate every 3-4 days; bait with insecticide."
+        },
+        {
+          "name": "Rice bug",
+          "scientific_name": "Leptocorisa oratorius",
+          "category": "Insects",
+          "symptoms": "Sucks contents out of grains leading to unfilled empty discolored grains.",
+          "cause": "Insect",
+          "management": "Weed control; equal distribution of fertilizer/water; manual collection."
+        },
+        {
+          "name": "Rice case worm",
+          "scientific_name": "Paraponyx stagnalis, Nymphula depunctalis",
+          "category": "Insects",
+          "symptoms": "Scraps chlorophyll; cuts leaf tips to make cylindrical tubes.",
+          "cause": "Insect",
+          "management": "Drain water to remove floating larvae; encourage biological control agents."
+        },
+        {
+          "name": "Rice gall midge",
+          "scientific_name": "Orseolia oryzae",
+          "category": "Insects",
+          "symptoms": "Maggot bores into bud/stalk causing tubular gall (silver shoot).",
+          "cause": "Insect",
+          "management": "Resistant cultivars; crop rotation; light traps."
+        },
+        {
+          "name": "Rice mealy bugs",
+          "scientific_name": "Brevennia rehi",
+          "category": "Insects",
+          "symptoms": "Stunting, wilting, yellowing and curling of leaves.",
+          "cause": "Insect",
+          "management": "Augment biocontrol agents."
+        },
+        {
+          "name": "Stem borers",
+          "scientific_name": "Scirpophaga spp., Chilo suppressalis",
+          "category": "Insects",
+          "symptoms": "Longitudinal white patches on leaf sheaths; central leaf whorl dying (deadheart); empty panicles (whitehead).",
+          "cause": "Insect",
+          "management": "Repeated applications of appropriate insecticide; clip seedlings before transplanting; harvest at ground level; plow/flood stubble."
+        }
+      ]
+    },
+    {
+      "name": "Potato",
+      "scientific_name": "Solanum tuberosum",
+      "common_names": [
+        "Viazi mbatata",
+        "Waru",
+        "Papa",
+        "Kartoffel",
+        "Patata"
+      ],
+      "description": "The potato (Solanum tuberosum) is a widely cultivated herbaceous perennial plant grown for its edible underground tubers. It belongs to the Solanaceae family and is native to the Andes Mountains in South America. The plant has a branched stem, leaves consisting of unequal leaflets, and produces white or blue flowers and yellow-green berries. The tubers can be yellow, red, or purple depending on the variety and grow about 25 cm underground. Potatoes are a major staple food worldwide and have seen significant production increases in Africa, particularly in Egypt, South Africa, Ethiopia, Kenya, and Algeria.",
+      "uses_and_benefits": "Potato tubers are a staple food source, eaten after cooking. They can be sliced into chips or fries, or processed into starch, alcohol, or flour. Potatoes are a good source of carbohydrates, potassium, vitamin C, fiber, vitamin B6, and folate. They are low in fat, calories, and sodium.",
+      "varieties": [
+        "Desiree",
+        "Bintje",
+        "Sifra",
+        "Agria",
+        "Sarpo Mira",
+        "Shepody",
+        "Kenya Mpya",
+        "Shangi",
+        "Kenya Raha"
+      ],
+      "propagation": {
+        "basic_requirements": "Cool-season crop preferring moderate temperatures (10–15 °C day, 5–10 °C night) and a long growing season. Sensitive to frost and drought. Grows best in well-drained soils rich in organic matter with a pH between 4.5 and 7.5. Requires adequate nitrogen, phosphorus, potassium, calcium, magnesium, and sulfur. Needs 1-2 inches of water per week.",
+        "seeding": "Propagated from certified, disease-free seed potatoes cut into pieces with at least one 'eye'. Planted in spring after the last frost date. Seed pieces planted 10-15 cm deep, 30-40 cm apart in rows 75-90 cm apart.",
+        "general_care_and_maintenance": "Requires regular watering, fertilization, and weeding. Plants should be hilled up (soil added to base) as they grow to prevent tubers from being exposed to sunlight, which turns them green.",
+        "harvesting": "Harvested when foliage dies back and tuber skin hardens. Tubers should be carefully dug up in dry soil, cured in a warm, dark, well-ventilated place for 1-2 weeks, cleaned, and stored in a cool, dark place (4-8 °C, 90-95% humidity)."
+      },
+      "diseases": [
+        {
+          "name": "Bacterial ring rot",
+          "scientific_name": "Clavibacter michiganensis",
+          "category": "Bacterial",
+          "symptoms": "Wilting stems and dying lower leaves; ring of creamy yellow to brown rot visible when tuber is cut crossways.",
+          "cause": "Bacterium",
+          "comments": "Tuber-borne; enters through cutting wounds; favored by wet, warm soils.",
+          "management": "Plant only certified seed potatoes; remove crop debris; sanitize tools."
+        },
+        {
+          "name": "Blackleg (Soft rot)",
+          "scientific_name": "Erwinia carotovora",
+          "category": "Bacterial",
+          "symptoms": "Water-soaked lesions on base of stems; tissue becomes soft, lightly brown to inky black; wilted, curled, slimy leaves.",
+          "cause": "Bacterium",
+          "comments": "Carried on tubers/wounds; emergence favors high soil temperatures.",
+          "management": "Plant tissue-cultured seed pieces; sanitize tools; avoid tuber damage; reduce leaf wetness."
+        },
+        {
+          "name": "Common scab",
+          "scientific_name": "Streptomyces spp.",
+          "category": "Bacterial",
+          "symptoms": "Raised brown lesions on tubers with corky texture; deep, pitted brown/black lesions.",
+          "cause": "Bacterium",
+          "comments": "Most severe during warm and dry conditions.",
+          "management": "Avoid planting infected tubers; 3-4 year rotation; maintain high soil moisture during tuber development; amend soil to lower pH."
+        },
+        {
+          "name": "Black dot",
+          "scientific_name": "Colletotrichum coccodes",
+          "category": "Fungal",
+          "symptoms": "Small black dots on tubers, stolons, stems; root rot; yellow wilting leaves; defoliation.",
+          "cause": "Fungus",
+          "comments": "Favors poorly draining soil, high temperatures, coarse soils low in nitrogen.",
+          "management": "Rotate crops; do not plant infested tubers; fertilize/water adequately; protective fungicides."
+        },
+        {
+          "name": "Black scurf & Rhizoctonia canker",
+          "scientific_name": "Rhizoctonia solani",
+          "category": "Fungal",
+          "symptoms": "Flat, irregular black/dark brown fruiting bodies on tubers; red-brown sunken lesions on sprouts; curling yellow leaves.",
+          "cause": "Fungus",
+          "comments": "Spread by infested soil/tubers; favors cool, moist soil.",
+          "management": "Apply fungicide to seed/soil; avoid planting deeply in cold soil; rotate crop."
+        },
+        {
+          "name": "Gray mold",
+          "scientific_name": "Botrytis cinerea",
+          "category": "Fungal",
+          "symptoms": "Flowers covered in gray, fuzzy mold; tan leaf lesions; slimy brown stem rot; wrinkly soft wet tubers with fuzzy growth.",
+          "cause": "Fungus",
+          "comments": "Favors excessive humidity, cool temperatures, shade.",
+          "management": "Adequate fertilizer/water; protective fungicides."
+        },
+        {
+          "name": "Pink rot",
+          "scientific_name": "Phytophthora erythroseptica",
+          "category": "Oomycete",
+          "symptoms": "Stunted growth; wilting leaves; dark brown eyes on tuber; cut tuber turns pink after 20-30 min air exposure, then brown/black.",
+          "cause": "Oomycete",
+          "comments": "Favors high soil water saturation late in season.",
+          "management": "Plant in well-draining soils; avoid overwatering and wounding."
+        },
+        {
+          "name": "Potato Early Blight",
+          "scientific_name": "Alternaria solani",
+          "category": "Fungal",
+          "symptoms": "Dark lesions with yellow borders forming concentric rings on leaves/stems; dark, dry, leathery/corky tuber lesions.",
+          "cause": "Fungus",
+          "comments": "Favors cycles of wet/dry conditions, high humidity.",
+          "management": "Protective fungicides; fertilize/water adequately; plant late varieties; cool tuber storage."
+        },
+        {
+          "name": "Powdery scab",
+          "scientific_name": "Spongospora subterranea",
+          "category": "Fungal",
+          "symptoms": "White to brown root/stolon galls; raised tuber pustules; shallow depressions filled with brown spores.",
+          "cause": "Fungus",
+          "comments": "Symptoms all occur below ground.",
+          "management": "Avoid symptomatic tubers; avoid poorly draining soils; 3-10 year crop rotation away from potato/tomato."
+        },
+        {
+          "name": "Verticillium wilt",
+          "scientific_name": "Verticillium dahliae, Verticillium albo-atrum",
+          "category": "Fungal",
+          "symptoms": "Early plant death; leaflets dying on one side of petiole; discolored stem tissue; stem-end tuber discoloration.",
+          "cause": "Fungi",
+          "comments": "Favors high temperature/moisture followed by drought; wind/soil spread.",
+          "management": "Plant resistant varieties; furrow irrigation instead of sprinkler; avoid overwatering."
+        },
+        {
+          "name": "Leak",
+          "scientific_name": "Pythium spp.",
+          "category": "Other",
+          "symptoms": "Light tan, water-soaked area around tuber wound; spongy internal rotting with cavities; watery fluid exudes when squeezed.",
+          "cause": "Fungi",
+          "comments": "Only affects tubers entering through wounds; favors high temperatures.",
+          "management": "Crop rotation; destroy infected tubers; foliar fungicides; delay harvest to mature skins."
+        },
+        {
+          "name": "Potato Late Blight",
+          "scientific_name": "Phytophthora infestans",
+          "category": "Oomycete",
+          "symptoms": "Irregular brown leaf lesions with white fluffy sporulation; dark green/brown stem lesions; firm red-brown tuber lesions.",
+          "cause": "Oomycete",
+          "comments": "Survives in soil/tubers; favors moist, cool conditions.",
+          "management": "Destroy infected tubers/volunteers; apply fungicides; time watering to reduce leaf wetness; plant resistant varieties."
+        },
+        {
+          "name": "Potato leaf roll",
+          "scientific_name": "Potato leafroll virus (PLRV)",
+          "category": "Viral",
+          "symptoms": "Young leaves rolled, yellow/pink; lower leaves leathery, rolled upward; necrotic netting in tubers; stunted upright growth.",
+          "cause": "Virus",
+          "comments": "Aphid transmitted; spread by infected seed tubers and volunteers.",
+          "management": "Plant PLRV-free stock; harvest early; destroy infected plants; insecticides for aphids."
+        },
+        {
+          "name": "Potato virus A",
+          "scientific_name": "Potato virus A (PVA)",
+          "category": "Viral",
+          "symptoms": "Mild mosaic mottling on leaves; shiny appearance; stems bending outward; no tuber symptoms.",
+          "cause": "Virus",
+          "comments": "Aphid transmitted; planted infected tubers.",
+          "management": "Plant PVA-free material; tolerant varieties; systemic insecticides for aphids."
+        },
+        {
+          "name": "Potato virus X",
+          "scientific_name": "Potato virus X (PVX)",
+          "category": "Viral",
+          "symptoms": "Mild mosaic pattern; dwarfed plants with smaller leaves; top/tuber necrosis.",
+          "cause": "Virus",
+          "comments": "Transmitted by mechanical contact with infected leaves/tubers.",
+          "management": "Plant PVX-free seed."
+        },
+        {
+          "name": "Potato virus Y",
+          "scientific_name": "Potato virus Y (PVY)",
+          "category": "Viral",
+          "symptoms": "Varies from mild mosaic to leaf necrosis/death; yellow dropping leaves; light brown rings on tuber skin.",
+          "cause": "Virus",
+          "comments": "Transmitted by aphids and mechanical contact.",
+          "management": "Plant certified seed; systemic insecticides; destroy symptomatic plants; resistant varieties."
+        }
+      ],
+      "pests": [
+        {
+          "name": "Aphids",
+          "scientific_name": "Myzus persicae, Macrosiphon euphorbiae",
+          "category": "Insects",
+          "symptoms": "Small soft-bodied insects; yellowing, distorted, necrotic leaves; stunted shoots; honeydew secretions causing sooty mold.",
+          "cause": "Insects",
+          "comments": "Damaging mainly through virus transmission.",
+          "management": "Prune infested shoots; reflective mulches; strong water jet; insecticidal soaps, neem or canola oil."
+        },
+        {
+          "name": "Colorado potato beetle",
+          "scientific_name": "Leptinotarsa decemlineata",
+          "category": "Insects",
+          "symptoms": "Complete defoliation; black/yellow striped adults; red/pink larvae with black spots.",
+          "cause": "Insect",
+          "comments": "High insecticide resistance; highly prolific.",
+          "management": "Plant early maturing varieties; hand pick into soapy water; apply Bacillus thuringiensis or spinosad."
+        },
+        {
+          "name": "Cutworms",
+          "scientific_name": "Agrotis spp., Peridroma saucia, Nephelodes minians",
+          "category": "Insects",
+          "symptoms": "Severed stems of young transplants at soil line; larvae curl in C-shape.",
+          "cause": "Insects",
+          "comments": "Wide host range.",
+          "management": "Remove plant residue; foil collars around stems; diatomaceous earth; hand-pick after dark."
+        },
+        {
+          "name": "Flea beetles",
+          "scientific_name": "Epitrix spp.",
+          "category": "Insects",
+          "symptoms": "Small shothole pits in leaves; dark shiny jumping beetles.",
+          "cause": "Insects",
+          "comments": "Younger plants are more susceptible.",
+          "management": "Floating row covers; early planting; trap crops; thick mulch; neem oil, diamotecoeus earth."
+        },
+        {
+          "name": "Wireworms",
+          "scientific_name": "Aeolus spp., Anchastus spp., Melanotus spp., Limonius spp.",
+          "category": "Insects",
+          "symptoms": "Death of seedlings; girdled stems, white heads; yellow-brown thin shiny worms in soil.",
+          "cause": "Insect",
+          "comments": "Larval stage lasts 1-5 years.",
+          "management": "Preplanting chemical control/seed treatment; summer fallowing and frequent tilling; crop rotation."
+        }
+      ]
+    },
+    {
+      "name": "Pepper, bell",
+      "scientific_name": "Capsicum annuum",
+      "common_names": [
+        "red pepper",
+        "yellow pepper",
+        "green pepper"
+      ],
+      "description": "Bell peppers (Capsicum annuum) are a cultivar group of annual or perennial plants in the Solanaceae family grown for their edible fruits. The plants are short bushes with woody stems, elliptical leaves, and produce white or purple bell-shaped flowers. They produce brightly colored fruits (red, yellow, purple, green, brown) 3-6 weeks after flowering. The plant originates from Central and South America.",
+      "uses_and_benefits": "Bell peppers can be eaten fresh as a salad vegetable or cooked in a variety of dishes.",
+      "varieties": [],
+      "propagation": {
+        "basic_requirements": "Warm-season crop (18-30°C). Requires well-draining soil (sandy soils are good) with a pH between 6 and 7. Requires full sun.",
+        "seeding": "Start seeds indoors 8-10 weeks before the last spring frost. Plant seeds 1.3 cm deep in sterile mix, keep soil temp 21-29°C. Move seedlings to larger pots once true leaves develop.",
+        "general_care_and_maintenance": "Apply timed-release or liquid fertilizer bi-weekly. Provide support using stakes or cages to prevent branches from breaking under fruit weight.",
+        "harvesting": "Transplant seedlings 2-3 weeks after last frost (soil min 15.5°C). Harden off before transplanting. Space plants 30-45 cm apart. Water evenly using drip irrigation and use mulch."
+      },
+      "diseases": [
+        {
+          "name": "Anthracnose",
+          "scientific_name": "Colletotrichum spp.",
+          "category": "Fungal",
+          "symptoms": "Circular fruit lesions with tan/orange/black concentric rings; irregular gray leaf/stem spots.",
+          "cause": "Fungi",
+          "comments": "Found worldwide, causes large losses.",
+          "management": "Disease-free seeds; hot water seed treatment (52°C, 30 min); 3-year crop rotation; plow crop residue."
+        },
+        {
+          "name": "Cercospora leaf spot (Frogeye leaf spot)",
+          "scientific_name": "Cercospora capsici",
+          "category": "Fungal",
+          "symptoms": "Small water-soaked leaf spots maturing to white/brown centers with brown/red/purple borders; concentric appearance; brittle cracked centers.",
+          "cause": "Fungus",
+          "comments": "Mainly in tropical/subtropical countries.",
+          "management": "Minor infection requires no treatment; remove crop debris; crop rotation; early fungicide application."
+        },
+        {
+          "name": "Damping-off",
+          "scientific_name": "Pythium spp., Rhizoctonia solani",
+          "category": "Fungal",
+          "symptoms": "Seedlings collapsing/dying; shriveled dark stems near soil line; water-soaked discolored roots.",
+          "cause": "Fungi",
+          "comments": "Spread in infected soil/water; favors overcrowded plants and excess nitrogen.",
+          "management": "Avoid cool, wet, poorly draining soil; plant in raised beds; use high quality seed; fungicide seed treatment."
+        },
+        {
+          "name": "Fusarium wilt",
+          "scientific_name": "Fusarium oxysporum",
+          "category": "Fungal",
+          "symptoms": "Yellowing foliage, wilting upper leaves spreading to plant; red-brown vascular discoloration; plant death.",
+          "cause": "Fungus",
+          "comments": "Favors high soil moisture.",
+          "management": "Plant in well draining soils, avoid waterlogging."
+        },
+        {
+          "name": "Gray leaf spot",
+          "scientific_name": "Stemphylium spp.",
+          "category": "Fungal",
+          "symptoms": "Small red-brown leaf spots expanding to white/gray centers with red-brown margins; yellowing dropping leaves.",
+          "cause": "Fungi",
+          "comments": "Common in cool-season tropical/subtropical climates.",
+          "management": "Well-ventilated nursery beds; prompt debris removal; apply fumigant fungicides if spreading."
+        },
+        {
+          "name": "Powdery mildew",
+          "scientific_name": "Leveillula taurica",
+          "category": "Fungal",
+          "symptoms": "Patches of white powdery growth on leaf underside; yellow/brown upper leaf discoloration; curling edges; leaf drop.",
+          "cause": "Fungus",
+          "comments": "Spreads rapidly in humid conditions; commonly affects older leaves.",
+          "management": "Apply appropriate fungicide if severe."
+        },
+        {
+          "name": "Southern blight",
+          "scientific_name": "Sclerotium rolfsii",
+          "category": "Fungal",
+          "symptoms": "Sudden leaf wilting; yellowing foliage; browning stem; fan-like mycelial mat on stem.",
+          "cause": "Fungus",
+          "comments": "Favors high temperature/humidity and acidic soil.",
+          "management": "Remove infected plants; rotate crops; plow debris; wrap lower stems with aluminum foil as barrier."
+        },
+        {
+          "name": "Verticillium wilt",
+          "scientific_name": "Verticillium spp.",
+          "category": "Fungal",
+          "symptoms": "Stunted plants, lower leaves turning yellow and dropping; daytime wilting recovering at night, eventually permanent wilting.",
+          "cause": "Fungi",
+          "comments": "Severity depends on host, soil, and climate.",
+          "management": "Crop rotation (3-4 years); soil fumigation/solarization."
+        },
+        {
+          "name": "Bacterial canker",
+          "scientific_name": "Clavibacter michiganensis",
+          "category": "Bacterial",
+          "symptoms": "Raised white leaf lesions turning brown/necrotic with yellow halo; raised white fruit lesions coalescing.",
+          "cause": "Bacterium",
+          "comments": "Favors high temperatures/humidity; spreads between peppers and tomatoes.",
+          "management": "Certified seed; hot water seed treatment; sanitize equipment; rotate with non-solanaceous plants."
+        },
+        {
+          "name": "Bacterial spot",
+          "scientific_name": "Xanthomonas spp.",
+          "category": "Bacterial",
+          "symptoms": "Water-soaked lesions drying to brown on leaf underside; raised brown stem cankers; cracked brown fruit lesions.",
+          "cause": "Bacterium",
+          "comments": "Favors warm, wet conditions; spread by wind-driven rain.",
+          "management": "Disease free material; remove/plow crop debris."
+        },
+        {
+          "name": "Bacterial wilt",
+          "scientific_name": "Ralstonia solanacearum",
+          "category": "Bacterial",
+          "symptoms": "Upper leaves wilt on hot days; vascular tissue in lower stems discolored brown; bacterial ooze from stems.",
+          "cause": "Bacteria",
+          "comments": "Enters through root wounds.",
+          "management": "Disease-free seedlings; clean irrigation water; avoid excessive irrigation; crop rotation."
+        },
+        {
+          "name": "Blossom-end rot",
+          "scientific_name": "n/a",
+          "category": "Other",
+          "symptoms": "Small water-soaked area on blossom end of fruit turning sunken, tan brown and leathery.",
+          "cause": "Low calcium concentration in fruit",
+          "comments": "Physiological disorder; caused by drought stress, moisture fluctuation, excess nitrogen.",
+          "management": "Maintain pH at 6.5; lime soil; use mulch; avoid ammonium fertilizers."
+        },
+        {
+          "name": "Magnesium deficiency",
+          "scientific_name": "n/a",
+          "category": "Other",
+          "symptoms": "Interveinal chlorosis on older leaves; purple tinge; white leaves with green veins; reduced fruit yield.",
+          "cause": "Nutritional disorder",
+          "comments": "Rare in field but arises in sandy soils due to leaching.",
+          "management": "Apply dolomite lime or magnesium fertilizer."
+        },
+        {
+          "name": "Nitrogen deficiency",
+          "scientific_name": "n/a",
+          "category": "Other",
+          "symptoms": "Reduced growth, small yellowing leaves; pale, small fruit.",
+          "cause": "Nutritional disorder",
+          "comments": "Usually due to inadequate fertilizer or leaching.",
+          "management": "Apply appropriate nitrogen fertilizer."
+        },
+        {
+          "name": "Mosaic",
+          "scientific_name": "Cucumber mosaic virus (CMV), Potato virus Y (PVY)",
+          "category": "Viral",
+          "symptoms": "Light/green mosaic patterns on leaves; distorted curled leaves; slow growth.",
+          "cause": "Virus",
+          "comments": "Transmitted by aphids; weeds act as inoculum.",
+          "management": "Remove weeds; reflective mulches."
+        },
+        {
+          "name": "Tomato spotted wilt virus",
+          "scientific_name": "Tomato spotted wilt virus (TSWV)",
+          "category": "Viral",
+          "symptoms": "Spotted/bronzed leaves; wilting plant; concentric necrotic light rings on fruit.",
+          "cause": "Virus",
+          "comments": "Transmitted by thrips.",
+          "management": "Control thrips vector."
+        },
+        {
+          "name": "Phytophthora blight",
+          "scientific_name": "Phytophthora caspsici",
+          "category": "Oomycete",
+          "symptoms": "Black stem lesions; wilting; circular gray-brown leaf lesions; dark fruit lesions with white sporangia.",
+          "cause": "Oomycete",
+          "comments": "Highly water dependent; moves root to root.",
+          "management": "Disease free transplants; manage water carefully; rotate crops; apply fungicide."
+        }
+      ],
+      "pests": [
+        {
+          "name": "Aphids",
+          "scientific_name": "Myzus persicae",
+          "category": "Insects",
+          "symptoms": "Yellow/distorted necrotic leaf spots; stunted shoots; honeydew causing sooty mold.",
+          "cause": "Insect",
+          "comments": "Tubular cornicles.",
+          "management": "Prune infestations; reflective mulches; strong water jet; insecticidal soaps/oils."
+        },
+        {
+          "name": "Beet armyworm",
+          "scientific_name": "Spodoptera exigua",
+          "category": "Insects",
+          "symptoms": "Holes in foliage; skeletonized leaves; cottony egg clusters; pale to dark green larvae.",
+          "cause": "Insect",
+          "comments": "3-5 generations a year.",
+          "management": "Biological control; Bacillus thuringiensis."
+        },
+        {
+          "name": "Colorado potato beetle",
+          "scientific_name": "Leptinotarsa decemlineata",
+          "category": "Insects",
+          "symptoms": "Defoliation; black/yellow striped beetle adults; red/pink larvae with black spots.",
+          "cause": "Insect",
+          "comments": "High insecticide resistance.",
+          "management": "Plant early maturing varieties; hand pick; Bacillus thuringiensis, spinosad."
+        },
+        {
+          "name": "Flea beetles",
+          "scientific_name": "Various",
+          "category": "Insects",
+          "symptoms": "Shothole pits in leaves; small jumping metallic beetles.",
+          "cause": "Insects",
+          "comments": "Overwinters in weeds/debris.",
+          "management": "Floating row covers; early planting; trap crops; thick mulch; neem oil."
+        },
+        {
+          "name": "Leafminers",
+          "scientific_name": "Lyriomyza spp.",
+          "category": "Insects",
+          "symptoms": "Thin white winding trails/blotches on leaves; leaf drop; reduced fruit yield.",
+          "cause": "Insects",
+          "comments": "Adult is small black/yellow fly.",
+          "management": "Check transplants; remove plants after harvest; insecticide only when identified."
+        },
+        {
+          "name": "Leafroller (Omnivorous leafroller)",
+          "scientific_name": "Platynota stultana",
+          "category": "Insects",
+          "symptoms": "Leaves rolled and tied with silk webbing; defoliation; fruit scarring.",
+          "cause": "Insect",
+          "comments": "Adult moth flies miles.",
+          "management": "Monitor plants; weed removal; Bacillus thuringiensis/Entrust SC inside rolled leaves."
+        },
+        {
+          "name": "Pepper weevil",
+          "scientific_name": "Anthonomus eugenii",
+          "category": "Insects",
+          "symptoms": "Damage to buds/fruit pods; larvae feed inside; misshapen discolored fruit; dropping buds/fruit.",
+          "cause": "Insect",
+          "comments": "Prefers pepper but attacks other nightshades.",
+          "management": "Remove nearby nightshade plants; remove dropped fruit; crop rotation; pyrethrin sprays."
+        },
+        {
+          "name": "Thrips",
+          "scientific_name": "Frankliniella occidentalis, Thrips tabaci",
+          "category": "Insects",
+          "symptoms": "Distorted leaves/buds; silvery leaves with black feces; damaged flowers.",
+          "cause": "Insect",
+          "comments": "Transmits Tomato spotted wilt virus.",
+          "management": "Avoid planting next to onions/garlic/cereals; reflective mulches."
+        },
+        {
+          "name": "Tomato fruit worm (Corn earworm)",
+          "scientific_name": "Helicoverpa zea",
+          "category": "Insects",
+          "symptoms": "Larvae burrowing into fruit causing decay; premature red fruit dropping.",
+          "cause": "Insect",
+          "comments": "Moth overwinters in soil.",
+          "management": "Early treatment before entry into fruit; Bacillus thuringiensis/Entrust SC."
+        },
+        {
+          "name": "Spider mites (Two spotted spider mite)",
+          "scientific_name": "Tetranychus urticae",
+          "category": "Mites",
+          "symptoms": "Yellow stippled/bronzed leaves; webbing; tiny moving dots.",
+          "cause": "Arachnid",
+          "comments": "Thrives in dusty, water-stressed conditions.",
+          "management": "Strong water jet; insecticidal soap."
+        }
+      ]
+    }
+  ]
+}
