@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --asp-bg: #fefae0;
+  --asp-primary: #606c38;
+  --asp-accent: #c5cfdf;
+  --asp-grounded: #a3c9cd;
+  --asp-escalate: #dda15e;
+  --asp-reject: #bc6c25;
+  --asp-ink: #283618;
+}
+
+body {
+  background: var(--asp-bg);
+  color: var(--asp-ink);
+}
+
+.asp-metric {
+  font-family: var(--font-plex-mono), monospace;
+  font-variant-numeric: tabular-nums;
+}
