@@ -21,12 +21,20 @@ async def lifespan(app: FastAPI):
     state.supabase = get_supabase_client()
     state.infer_onxx = InferONNX(model_path=settings.onnx_model_path, labels=settings.labels_path)
 
-    state.rag_service = RAGService()
-    with open("data/ministry_documents/flattened.json") as f:
-        docs = json.load(f)
-    state.rag_service.initialize_vectorstore(docs)
+    try:
+        state.rag_service = RAGService()
+        with open("data/ministry_documents/flattened.json") as f:
+            docs = json.load(f)
+        state.rag_service.initialize_vectorstore(docs)
+    except Exception as exc:
+        state.rag_service = None
+        print(f"RAG init skipped: {exc}")
 
-    state.llm_service = LLMService(model_name="gpt-5-mini-2025-08-07", is_gemini=False)
+    try:
+        state.llm_service = LLMService(model_name="gpt-5-mini-2025-08-07", is_gemini=False)
+    except Exception as exc:
+        state.llm_service = None
+        print(f"LLM init skipped: {exc}")
 
     yield
 
@@ -37,7 +45,8 @@ master = FastAPI(lifespan=lifespan)
 
 origins = [
     "http://localhost:3000",
-    "https://your-nextjs-app.com",    # placeholder tergantung nanti yang frontend linknya gimana
+    "http://127.0.0.1:3000",
+    "https://your-nextjs-app.com",
 ]
 
 master.add_middleware(

@@ -1,3 +1,8 @@
-from fastapi import APIRouter, HTTPException, UploadFile
+from fastapi import APIRouter
 
-router = APIRouter()
+router = APIRouter(prefix="/api")
+
+
+@router.get("/health")
+async def health_check():
+    return {"status": "ok"}
