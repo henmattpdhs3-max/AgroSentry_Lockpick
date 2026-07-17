@@ -14,7 +14,7 @@ Indonesian smallholder farmers often lack access to agricultural experts, get ge
 |---|---------|
 | 1 | AI Disease Diagnosis (MobileNetV2 via ONNX Runtime) |
 | 2 | Explainable AI (Grad-CAM heatmap) |
-| 3 | Grounded Recommendations (RAG over Ministry of Agriculture guidance + Gemini/OpenAI) |
+| 3 | Grounded Recommendations (RAG over Ministry of Agriculture guidance + OpenAI) |
 | 4 | Anonymous Community Contribution |
 | 5 | Community Forum |
 
